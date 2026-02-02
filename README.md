@@ -4,9 +4,10 @@
 I developed an end-to-end business intelligence solution to transform raw transactional data into actionable executive insights. The project involved architecting a relational database, performing ETL, and designing a high-fidelity dashboard for a retail environment.
 
 **Tools Used**
-- SQL Server (T-SQL)
-- Power BI Desktop
-- DAX
+- **Database Engine & Sourcing:** SQL Server (T-SQL) — used for architecting the relational database and hosting transactional data.
+- **Data Cleaning & ETL:** SQL Server Management Studio (SSMS) — utilized for performing complex ETL processes and data validation via T-SQL.
+- **Analysis & Modeling:** Power BI Desktop — used to build a Star Schema with one-to-many relationships between Fact and Dimension tables.
+- **Advanced Analytics:** DAX (Data Analysis Expressions) — authored to calculate critical KPIs like Profit Margin % and Year-over-Year (YoY) Sales.
 
 **Technical Highlights**
 | Components | Description |
