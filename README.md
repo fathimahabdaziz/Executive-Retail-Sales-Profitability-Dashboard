@@ -18,4 +18,4 @@ I developed an end-to-end business intelligence solution to transform raw transa
 | UI/UX Design | Implemented a Card-UI layout with interactive slicers and cross-filtering to provide a seamless user experience for stakeholders. |
 
 **Power BI Dasboard**<br>
-![dashboard](screenshorts/retailexecdashboard.png)
+![dashboard](screenshots/retailexecdashboard.png)
