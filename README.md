@@ -1,4 +1,4 @@
-# Project Title: Executive Retail Sales & Profitability Dashboard
+# Executive Retail Sales & Profitability Dashboard
 
 **Project Description**<br>
 I developed an end-to-end business intelligence solution to transform raw transactional data into actionable executive insights. The project involved architecting a relational database, performing ETL, and designing a high-fidelity dashboard for a retail environment.
